@@ -5,9 +5,9 @@ https://kl-turner.github.io/Electrode-Fabrication/
 
 # Materials
 | Hardware | Manufacture or Seller | Documentation | Purpose |
-|:----|:----|:----|:----|
+|:----:|:----:|:----:|:----:|
 | PFA-Coated Tungsten Wire (795500) | A-M Systems | https://www.a-msystems.com/p-802-pfa-coated-tungsten-wire.aspx | Stereotrode wire |
-| Multi-Stranded PFA-Coated Stainless Steel Wire (793200) | A-M Systems | https://www.a-msystems.com/p-806-multi-stranded-pfa-coated-stainless-steel-wire.aspx | EMG wire|
+| Multi-Stranded PFA-Coated Stainless Steel Wire (793200) | A-M Systems | https://www.a-msystems.com/p-806-multi-stranded-pfa-coated-stainless-steel-wire.aspx | EMG wire |
 | Polyimide Tubing (822200) | A-M Systems | https://www.a-msystems.com/p-219-polyimide-tubing.aspx | Electrode insulator |
 | Gold Connector Pins (ED1199-ND) | Digi-Key | https://www.digikey.com/product-detail/en/mill-max-manufacturing-corp/0489-1-15-15-11-27-04-0/ED1199-ND/434154 | Wire to connector contact |
 | PELCO® Colloidal Silver, 30g (16031) | TED PELLA | https://www.tedpella.com/SEMmisc_html/SEMpaint.htm#16031 | Wire to pin conductor | 
