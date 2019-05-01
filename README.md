@@ -5,7 +5,7 @@ https://kl-turner.github.io/Electrode-Fabrication/
 
 ### Equipment
 
-| Hardware, Manufacture                         | Documentation                                                                                                | Purpose                                             |
+| Hardware | Manufacture or Seller | Documentation | Purpose |
 | :---                                          | :---                                                                                                         | :---                                                |
 | Spectra-Physics Mai Tai Ti:Sapphire laser     | https://www.spectra-physics.com/products/ultrafast-lasers/mai-tai                                            | Two-photon laser                                    |
 | National Instruments PCIe-6353                | http://www.ni.com/en-us/support/model.pcie-6353.html                                                         | Integrates various components with MScan            |
@@ -18,6 +18,14 @@ https://kl-turner.github.io/Electrode-Fabrication/
 | Conoptics Model 350-80LA                      | https://www.conoptics.com/modulation-systems-mpm/                                                            | Electro-Optic modulator, control laser intensity    |
 | Conoptics Model 320RM                         | https://www.conoptics.com/modulation-systems-mpm/                                                            | Pockel cell controller                              |
 | Uniblitz VCM-D1                               | https://www.uniblitz.com/products/vcm-d1-shutter-driver/                                                     | Shutter driver and controller                       |
+| PFA-Coated Tungsten Wire (795500) | A-M Systems | https://www.a-msystems.com/p-802-pfa-coated-tungsten-wire.aspx | Stereotrode wire |
+| Multi-Stranded PFA-Coated Stainless Steel Wire (793200) | A-M Systems | https://www.a-msystems.com/p-806-multi-stranded-pfa-coated-stainless-steel-wire.aspx | EMG wire |
+| Polyimide Tubing (822200) | A-M Systems | https://www.a-msystems.com/p-219-polyimide-tubing.aspx | Electrode insulator |
+| Gold Connector Pins (ED1199-ND) | Digi-Key | https://www.digikey.com/product-detail/en/mill-max-manufacturing-corp/0489-1-15-15-11-27-04-0/ED1199-ND/434154 | Wire to connector contact |
+| PELCO® Colloidal Silver, 30g (16031) | TED PELLA | https://www.tedpella.com/SEMmisc_html/SEMpaint.htm#16031 | Wire to pin conductor | 
+| Heat-Shrink Tubing (7496K82) | McMaster-Carr | https://www.mcmaster.com/7496k82 | Electrode insulator | 
+| 300 General Purpose Cyanoacrylate (30002) | Vibra-Tite | https://www.vibra-tite.com/adhesives-bonding/vibra-tite-300-general-purpose-cyanoacrylate/ | Electrode strength, solidifcation |
+| Gold Pin Headers | Mouser Electronics | https://www.mouser.com/ProductDetail/harwin/m52-5002545/?qs=ulE8k0yEMYYCoPI98NE5xg%3D%3D&countrycode=US&currencycode=USD | Electrode fabrication, protection |
 
 # Materials
 | Hardware | Manufacture or Seller | Documentation | Purpose |
