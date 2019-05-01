@@ -7,17 +7,6 @@ https://kl-turner.github.io/Electrode-Fabrication/
 
 | Hardware | Manufacture or Seller | Documentation | Purpose |
 | :---                                          | :---                                                                                                         | :---                                                | :--- |
-| Spectra-Physics Mai Tai Ti:Sapphire laser     | https://www.spectra-physics.com/products/ultrafast-lasers/mai-tai                                            | Two-photon laser                                    |
-| National Instruments PCIe-6353                | http://www.ni.com/en-us/support/model.pcie-6353.html                                                         | Integrates various components with MScan            |
-| National Instruments PCIe-6321                | http://www.ni.com/en-us/support/model.pcie-6321.html                                                         | Integrates various components with MScan            |
-| National Instruments BNC-2110 (x4)            | http://sine.ni.com/nips/cds/view/p/lang/en/nid/1865                                                          | Integrates various components with MScan            |
-| National Instruments USB-6211                 | http://www.ni.com/en-us/support/model.usb-6211.html                                                          | DAQ for webcam, force sensor, whisker cam           |
-| Sutter Instruments PS-2LV                     | https://www.sutter.com/MICROSCOPES/pmt_frame.html                                                            | PMT power supply                                    | 
-| Sutter Instruments MDR-6                      | See new Resonant version MDR-R https://www.sutter.com/MICROSCOPES/resscan.html                               | Scan drive controller                               |
-| Sutter Intruments MPC-200                     | https://www.sutter.com/MICROMANIPULATION/mpc200.html                                                         | Objective micromanipulator                          |
-| Conoptics Model 350-80LA                      | https://www.conoptics.com/modulation-systems-mpm/                                                            | Electro-Optic modulator, control laser intensity    |
-| Conoptics Model 320RM                         | https://www.conoptics.com/modulation-systems-mpm/                                                            | Pockel cell controller                              |
-| Uniblitz VCM-D1                               | https://www.uniblitz.com/products/vcm-d1-shutter-driver/                                                     | Shutter driver and controller                       |
 | PFA-Coated Tungsten Wire (795500) | A-M Systems | https://www.a-msystems.com/p-802-pfa-coated-tungsten-wire.aspx | Stereotrode wire |
 | Multi-Stranded PFA-Coated Stainless Steel Wire (793200) | A-M Systems | https://www.a-msystems.com/p-806-multi-stranded-pfa-coated-stainless-steel-wire.aspx | EMG wire |
 | Polyimide Tubing (822200) | A-M Systems | https://www.a-msystems.com/p-219-polyimide-tubing.aspx | Electrode insulator |
@@ -29,7 +18,7 @@ https://kl-turner.github.io/Electrode-Fabrication/
 
 # Materials
 | Hardware | Manufacture or Seller | Documentation | Purpose |
-|:----:|:----:|:----:|:----:|
+| :---                                          | :---                                                                                                         | :---                                                | :--- |
 | PFA-Coated Tungsten Wire (795500) | A-M Systems | https://www.a-msystems.com/p-802-pfa-coated-tungsten-wire.aspx | Stereotrode wire |
 | Multi-Stranded PFA-Coated Stainless Steel Wire (793200) | A-M Systems | https://www.a-msystems.com/p-806-multi-stranded-pfa-coated-stainless-steel-wire.aspx | EMG wire |
 | Polyimide Tubing (822200) | A-M Systems | https://www.a-msystems.com/p-219-polyimide-tubing.aspx | Electrode insulator |
