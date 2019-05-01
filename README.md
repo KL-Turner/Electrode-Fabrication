@@ -5,7 +5,7 @@ https://kl-turner.github.io/Electrode-Fabrication/
 
 # Materials
 | Hardware | Manufacture or Seller | Documentation | Purpose |
-|:-:|:-:|:-:|:-:|
+|:----:|:----:|:----:|:----:|
 | PFA-Coated Tungsten Wire (795500) | A-M Systems | https://www.a-msystems.com/p-802-pfa-coated-tungsten-wire.aspx | Stereotrode wire |
 | Multi-Stranded PFA-Coated Stainless Steel Wire (793200) | A-M Systems | https://www.a-msystems.com/p-806-multi-stranded-pfa-coated-stainless-steel-wire.aspx | EMG wire|
 | Polyimide Tubing (822200) | A-M Systems | https://www.a-msystems.com/p-219-polyimide-tubing.aspx | Electrode insulator |
@@ -17,7 +17,7 @@ https://kl-turner.github.io/Electrode-Fabrication/
 
 # Equipment
 | Hardware | Manufacture or Seller | Documentation | Purpose |
-|:-:|:-:|:-:|:-:|
+|:----:|:----:|:----:|:----:|
 | Fine Scissors - Tungsten Carbide (14568-12) | Fine Science Tools (FST) | https://www.finescience.com/en-US/Products/Scissors/Standard-Scissors/Fine-Scissors-Tungsten-Carbide/14568-12 | Cut electrode wire(s) |
 | Dumont #5 Forceps (11251-20) | Fine Science Tools (FST) | https://www.finescience.com/en-US/Products/Forceps-Hemostats/Dumont-Forceps/Dumont-5-Forceps/11251-20 | Wire stripping, handling |
 | Student Standard Pattern Forceps (91100-16) | Fine Science Tools (FST) | https://www.finescience.com/en-US/Products/Student-Instruments/Student-Forceps/Student-Standard-Pattern-Forceps/91100-16 | Handling pins, electrodes |
@@ -39,7 +39,7 @@ The following instructions outline the step-by-step process for fabricating tung
 - **[C]** Use a pair of fine-tip forceps to strip ~ 3 mm of the Teflon coating off **one** end of each wire. It does not matter which side. You want to strip off just enough coating so that the bare end fits fully into the gold pin, but does not extend significally past the end of the opening. Careful when stripping stranded wire, as you do not want to separate the strands.
 
 | [A] Cutting wire | [B] 2 wires per electrode| [C] Stripping off coating |
-|:-:|:-:|:-:|
+|:----:|:----:|:----:|
 | ![](https://user-images.githubusercontent.com/30758521/57000674-bea64900-6b82-11e9-8caf-314c682fa448.jpg) | ![](https://user-images.githubusercontent.com/30758521/57000650-a8988880-6b82-11e9-867b-00b675534a66.jpg) | ![](https://user-images.githubusercontent.com/30758521/57000628-91599b00-6b82-11e9-9afd-2944c89f8057.jpg) |
 
 - **[D]** Shake the bottle of colloidal silver (CS) very well. The CS is electrically conductive, allowing current to pass from the wire to the pin. It starts off as a liquid, but quickly dries leaving the conductive particles. Gather up your stripped wires, some gold pins, and a crimper tool. It's nice to work in a well-ventilated area under a fume extractor swing-arm, ventilation table, or fume hood.
@@ -53,13 +53,13 @@ The following instructions outline the step-by-step process for fabricating tung
 - **[H]** Repeat the process until you've collected at least twice as many completed wire + pins as the number of electrodes you desire. As mentioned before, I typically make dozens of these at once. Often times I make several dozen on slow days and keep them in a labeled container for later assembly. Be sure to label the container(s), as the stainless steal and tungesten wires look nearly identical unless under a microscope.
 
 | [D] CS and crimpers | [E] Apply CS to gold pin | [F] Insert wire into pin | [G] Crimp gold pin | [H] Repeat as necessary |
-|:-:|:-:|:-:|:-:|:-:|
+|:----:|:----:|:----:|:----:|:----:|
 | ![](https://user-images.githubusercontent.com/30758521/57000887-c1556e00-6b83-11e9-87f7-3f8726bd34f1.jpg) | ![](https://user-images.githubusercontent.com/30758521/57000901-d92cf200-6b83-11e9-9147-46048ac2e671.jpg) | ![](https://user-images.githubusercontent.com/30758521/57000917-e813a480-6b83-11e9-98e3-fc0a12386dec.jpg) | ![](https://user-images.githubusercontent.com/30758521/57000946-0a0d2700-6b84-11e9-9742-16b4033fa49e.jpg) | ![](https://user-images.githubusercontent.com/30758521/57000956-1a250680-6b84-11e9-9f30-89d0805680bb.jpg) |
 
 ### The remaining steps are easier when done under a microscope, but can be done without one.
 
 | ![](https://user-images.githubusercontent.com/30758521/57000822-5b68e680-6b83-11e9-99f0-124f72d43aec.jpg) |
-|:--:|
+|:----:|
 | **Using a microscope makes fabrication significantly easier** |
 
 - **[I]** Cut the polyimide (PI) tubing into the appropriate lengths. For each tungsten stereotrode, I cut two pieces - one at 1 mm in length, and the other at 3 mm in length. For each EMG electrode, I cut two pieces - both 3 mm in length. Careful when cutting the tubing, as it tends to go flying after cut with a razor blade.
@@ -71,7 +71,7 @@ The following instructions outline the step-by-step process for fabricating tung
 - **[M]** Lightly lift the tape and slide the PI tubing further down the wires so that it doesn't slip off. For the tungsten stereotrodes, insert the tips into a second piece of 3 mm tubing. After doing this, remove the wires/tubing from the tape.
 
 | [I] Measure PI tubing | [J] Cut tubing to length | [K] Apply pieces to tape | [L] Insert wires into tubing | [M] Insert into second tubing for stereotrodes |
-|:-:|:-:|:-:|:-:|:-:|
+|:----:|:----:|:----:|:----:|:----:|
 | ![](https://user-images.githubusercontent.com/30758521/57001022-76882600-6b84-11e9-959f-081c3b0e3b61.jpg) | ![](https://user-images.githubusercontent.com/30758521/57001031-84d64200-6b84-11e9-980f-466f13d70095.jpg) | ![](https://user-images.githubusercontent.com/30758521/57001045-a3d4d400-6b84-11e9-8682-1ab9ced96787.jpg) | ![](https://user-images.githubusercontent.com/30758521/57001050-b3ecb380-6b84-11e9-8746-cfc8b3378d95.jpg) | ![](https://user-images.githubusercontent.com/30758521/57001064-c961dd80-6b84-11e9-8ae5-3da3eeb418cd.jpg) |
 
 - **[N]** Cut equal pieces (to the # of wires) of heat-shrink tubing of approximately equal length. Anywhere between 3-5 mm is fine. I shoot for around 4 mm, but don't actually measure these when cutting as you learn rather quickly what is too short/long by eye. I cut several pieces at once into a container, and then fish out two of approximately equal length for each individual electrode. The tubing serves to physically separate the two gold pins from shorting the circuit.
@@ -85,7 +85,7 @@ The following instructions outline the step-by-step process for fabricating tung
 - **[R]** Use a heat gun to shrink the tubing. Do not overheat the tubing, it only needs to be heated to the point that it shrinks to its final OD. If you do overheat the electrode, you risk melting and deforming the Teflon coating and the PI tubing. This makes moving the PI tubing during the finishing steps difficult to impossible.
 
 | [N] Cut shrink tubing | [O] Parts ready to assemble | [P] Tubing on pins | [Q] Pins into headers | [R] Heat shrink tubing |
-|:-:|:-:|:-:|:-:|:-:|
+|:----:|:----:|:----:|:----:|:----:|
 | ![](https://user-images.githubusercontent.com/30758521/57001083-e0083480-6b84-11e9-8282-cf52743e3277.jpg) | ![](https://user-images.githubusercontent.com/30758521/57001096-ec8c8d00-6b84-11e9-942f-1722e25eb470.jpg) | ![](https://user-images.githubusercontent.com/30758521/57001111-fadaa900-6b84-11e9-9016-cfad25bf9e65.jpg) | ![](https://user-images.githubusercontent.com/30758521/57001124-09c15b80-6b85-11e9-84d8-e7ebcdc5b2f1.jpg) | ![](https://user-images.githubusercontent.com/30758521/57001161-41300800-6b85-11e9-8024-94ba40b4db48.jpg) |
 
 - **[S]** To finish up the EMG electrodes, align the electrode vertically in the helping hands. Slide the two pieces of PI tubing down as far as they will comfortably go. Ideally, they go all the way past the heat-shrunk tubing and stop at the end of the crimped gold pin. Do not worry if the two pieces are slightly uneven in length. The purpose of these long pieces of PI tubing on the single EMG wires is provide a little bit of reinforcement against the torsional forces on the wire connection during electrode implantation. The stainless steel wires are very flexible, and are typically bent/curved into the muscles during implantation. This PI tubing helps prevent the base of the wire connection from flexing too much and breaking. Unlike the EMG wires, the tungsten stereotrode wires are never bent, and are already inherently very stiff.
@@ -99,7 +99,7 @@ The following instructions outline the step-by-step process for fabricating tung
 - **[W]** If you made it this far and have survived (or given up) keeping the wires from crossing, flip the electrode over and apply the thin layer of glue identical to the EMG electrode outlined in **[U]**. For the stereotrodes, I prefer to allow a decent amount of glue to drop down to the bottom creating a sort of upside-down triangle from the heat-shrunk tubing down to the small piece of PI tubing. When it dries, this extra glue provides a noticeable amount of stability to the base of the electrode wires that helps prevent them from bending.
 
 | [S] Align EMG veritcally | [T] Glue PI tubing on top | [U] Flip and glue rest of EMG | [V] Straighten stereotrode wires | [W] Flip and glue rest of stereotrode|
-|:-:|:-:|:-:|:-:|:-:|
+|:----:|:----:|:----:|:----:|:----:|
 | ![](https://user-images.githubusercontent.com/30758521/57001217-73da0080-6b85-11e9-81e6-0a85f045ba62.jpg) | ![](https://user-images.githubusercontent.com/30758521/57001234-8a805780-6b85-11e9-8451-c4b7a1794d11.jpg) | ![](https://user-images.githubusercontent.com/30758521/57001253-aedc3400-6b85-11e9-9b72-5d5c221eaf81.jpg) | ![](https://user-images.githubusercontent.com/30758521/57001247-a257db80-6b85-11e9-9e0a-931dfcba4ec5.jpg) | ![](https://user-images.githubusercontent.com/30758521/57001260-b996c900-6b85-11e9-902f-cdae0c723537.jpg) |
 
 Allow the electrodes to dry overnight. After they are dry, the wires can be trimmed to the desired length.
@@ -110,7 +110,7 @@ Before using the electrode(s) during surgery, it is imperitive to check that eac
 Remove the necessary adapter wires from the Drew Lab Thorlabs box next to the meter, and plug them in to the MicroProbes impedance tester.
 
 | ![](https://user-images.githubusercontent.com/30758521/56999135-f1990e80-6b7b-11e9-88a9-267508c319cb.jpg) |
-|:--:|
+|:----:|
 | **MicroProbes impendance tester** |
 
 Make sure the *REFERENCE* pin is connected to the bath of 3M NaCl, and the *ELECTRODE* pin is connected to your desired electrode. Turn the meter on, and it should automatically jump to the right (max impedence). Depending on application, you can adjust the *RANGE*, but typically 500kΩ is enough for most of our applications. Attach the electrode the header of the adapter cable. If your electrode is already in headers, you can simply connect the headers to the headers on the adapter. It does not significantly change the impedance.
