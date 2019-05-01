@@ -3,7 +3,7 @@ Detailed step-by-step instructions for fabrication of Stereotrodes & EMG electro
 
 https://kl-turner.github.io/Electrode-Fabrication/
 
-### Equipment
+# Materials
 
 | Hardware | Manufacture or Seller | Documentation | Purpose |
 | :---                                          | :---                                                                                                         | :---                                                | :--- |
