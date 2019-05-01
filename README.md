@@ -1,4 +1,6 @@
 # Electrode-Fabrication
+
+https://kl-turner.github.io/Electrode-Fabrication/
  
 Detailed step-by-step instructions for fabrication of Stereotrodes & EMG electrodes
 
