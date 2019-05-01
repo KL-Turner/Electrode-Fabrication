@@ -5,7 +5,7 @@ https://kl-turner.github.io/Electrode-Fabrication/
 
 # Materials
 | Hardware | Manufacture or Seller | Documentation | Purpose |
-|:----:|:----:|:----:|:----:|
+|:----|:----|:----|:----|
 | PFA-Coated Tungsten Wire (795500) | A-M Systems | https://www.a-msystems.com/p-802-pfa-coated-tungsten-wire.aspx | Stereotrode wire |
 | Multi-Stranded PFA-Coated Stainless Steel Wire (793200) | A-M Systems | https://www.a-msystems.com/p-806-multi-stranded-pfa-coated-stainless-steel-wire.aspx | EMG wire|
 | Polyimide Tubing (822200) | A-M Systems | https://www.a-msystems.com/p-219-polyimide-tubing.aspx | Electrode insulator |
