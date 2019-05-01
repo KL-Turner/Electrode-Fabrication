@@ -6,7 +6,7 @@ https://kl-turner.github.io/Electrode-Fabrication/
 ### Equipment
 
 | Hardware | Manufacture or Seller | Documentation | Purpose |
-| :---                                          | :---                                                                                                         | :---                                                |
+| :---                                          | :---                                                                                                         | :---                                                | :--- |
 | Spectra-Physics Mai Tai Ti:Sapphire laser     | https://www.spectra-physics.com/products/ultrafast-lasers/mai-tai                                            | Two-photon laser                                    |
 | National Instruments PCIe-6353                | http://www.ni.com/en-us/support/model.pcie-6353.html                                                         | Integrates various components with MScan            |
 | National Instruments PCIe-6321                | http://www.ni.com/en-us/support/model.pcie-6321.html                                                         | Integrates various components with MScan            |
